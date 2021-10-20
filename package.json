@@ -1,0 +1,23 @@
+{
+  "name": "create-express-ts-boilerplate",
+  "version": "1.0.1",
+  "description": "Express TypeScript Template",
+  "bin": "./bin/cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duterte/express-typescript.git"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "template",
+    "express-typescript",
+    "express-boilerplate"
+  ],
+  "author": "German Ochea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duterte/express-typescript/issues"
+  },
+  "homepage": "https://github.com/duterte/express-typescript#readme"
+}
